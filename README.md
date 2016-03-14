@@ -111,7 +111,7 @@ The port of the destination server. Defaults to `80` or `8000` when a host is no
 
 A single url that overrides the above. E.g., `http://www.google.com`
 
-##### `--logfile`
+##### `--log`
 
 Specify a file path to redirect logging to.
 
